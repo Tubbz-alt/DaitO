@@ -5,7 +5,11 @@
 # DaitO
 >  Intelligence tool for Detection And Identification wanted people based on partly known profile.
 
-DaitO lets agencies and organizations such as CIA, FBI and IDF or even countries sample dashboard to shearch wanted people even with low intelligence profile.
+DaitO lets agencies and organizations such as CIA, FBI and IDF or even countries, sample dashboard to search for wanted people even with low intelligence profile.
+
+DaitO is the only tool that let to conact beteewn the action of wanted, with the identiti and computer we use and his online bheaber.
+
+Traditional tool for searching wanted people aren't let to make the connaction beteewn the  
 
 ## Gathering information
 DaitO 
