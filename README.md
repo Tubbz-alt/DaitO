@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="230" src="https://github.com/oririnat/DaitO/blob/master/Design/Daito%20logos/logo%20%2B%20text/logo%20-%20black-s.png" alt = "DaitO logo">
+  <img width="230" sytle = "margin-top = "-20px;" src="https://github.com/oririnat/DaitO/blob/master/Design/Daito%20logos/logo%20%2B%20text/logo%20-%20black-s.png" alt = "DaitO logo">
 </p>
 
 # DaitO
