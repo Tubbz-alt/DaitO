@@ -5,25 +5,26 @@
 # DaitO
 >  Intelligence tool for Detection And Identification wanted people based on partly known profile.
 
-DaitO lets agencies and organizations such as CIA, FBI and IDF or even countries, sample dashboard to search for wanted people even with low intelligence profile.
+DaitO lets agencies and organizations such as CIA, FBI, IDF or even countries, sample dashboard to search for wanted people even with low intelligence profile.
 
-DaitO is the only tool that let to conact beteewn the action of wanted, with the identiti and computer we use and his online bheaber.
-
-Traditional tool for searching wanted people aren't let to make the connaction beteewn the  
+DaitO is the only tool that lets to make intelligence connection between the identity of the wanted and other intelligence profile categories such as :
+- The actions of the wanted.
+- The digital behavior of the wanted.
+- The software and hardware of the wanted computer.
+- The files forensics of the files of the wanted.
 
 ## Gathering information
 DaitO 
 
 
 ## Rootkit
-
+set of software components geared toward mainatining persistent and undedetectable on a computert
 
 ## Use case
 When will we use DaitO ?
-
-
-
-prasistent, bal bla
+cyber crimes
+connect between identity to the computer
+connect between the
 
 >  Intelligence tool for Detection And Identification wanted people based on partly known profile.
 
